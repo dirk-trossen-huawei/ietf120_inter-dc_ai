@@ -10,7 +10,7 @@ Room: Prince of Wales/Oxford
 Agenda:
 17.00 - 17.05: Settling & Introduction (Luigi Iannone, Huawei)
 
-17.05 - 17.15: Inter-DC AI: Requirements & Opportunities (Dirk Trossen, Huawei)
+17.05 - 17.15: Inter-DC AI: Requirements & Opportunities (Dirk Trossen, Huawei) [https://github.com/dirk-trossen-huawei/ietf120_inter-dc_ai/blob/main/Material/IETF120%20side%20meeting%20intro.pptx]
 
 17.15 - 17.25: On Congestion Control (Michael Welzl)
 
@@ -18,7 +18,7 @@ Agenda:
 
 17.35 - 17.45: On Collective Communication (Kehan Yao, China Mobile)
 
-17.45 - 18.15: Discussion on Next Steps (Dirk Trossen, Huawei)
+17.45 - 18.15: Discussion on Next Steps (Dirk Trossen, Huawei) [https://github.com/dirk-trossen-huawei/ietf120_inter-dc_ai/blob/main/Material/IETF120%20side%20meeting%20discussion.pptx]
 
 Meeting link: https://ietf.webex.com/meet/ietfsidemeeting2
 
