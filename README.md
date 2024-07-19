@@ -20,5 +20,5 @@ Agenda:
 
 17.45 - 18.15: Discussion on Next Steps (Dirk Trossen, Huawei)
 
-Meeting link: TBC
+Meeting link: https://ietf.webex.com/meet/ietfsidemeeting2
 
