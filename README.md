@@ -9,10 +9,15 @@ The side meeting will feature presentations to tease out key insights from vario
 Room: Prince of Wales/Oxford
 Agenda:
 17.00 - 17.05: Settling & Introduction (Luigi Iannone, Huawei)
+
 17.05 - 17.15: Inter-DC AI: Requirements & Opportunities (Dirk Trossen, Huawei)
+
 17.15 - 17.25: On Congestion Control (Michael Welzl)
+
 17.25 - 17.35: On Attestation (Ramki Krishan, Intel)
+
 17.35 - 17.45: On Collective Communication (Kehan Yao, China Mobile)
+
 17.45 - 18.15: Discussion on Next Steps (Dirk Trossen, Huawei)
 
 Meeting link: TBC
