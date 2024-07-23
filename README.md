@@ -12,7 +12,7 @@ Agenda:
 
 17.05 - 17.15: Inter-DC AI: Requirements & Opportunities (Dirk Trossen, Huawei) [https://github.com/dirk-trossen-huawei/ietf120_inter-dc_ai/blob/main/Material/IETF120%20side%20meeting%20intro.pptx]
 
-17.15 - 17.25: On Congestion Control (Michael Welzl)
+17.15 - 17.25: On Congestion Control (Michael Welzl) [https://github.com/dirk-trossen-huawei/ietf120_inter-dc_ai/blob/main/Material/ietf120-inter-dc-cc.pdf]
 
 17.25 - 17.35: On Attestation (Ramki Krishan, Intel)
 
