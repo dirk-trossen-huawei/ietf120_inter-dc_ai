@@ -7,7 +7,9 @@ This side meeting at IETF120 will start the needed dialogue to identify and disc
 The side meeting will feature presentations to tease out key insights from various players in this field, leaving dedicated time for discussing possible next and concrete steps in the IETF to move forward. 
 
 Room: Prince of Wales/Oxford
+
 Agenda:
+
 17.00 - 17.05: Settling & Introduction (Luigi Iannone, Huawei)
 
 17.05 - 17.15: Inter-DC AI: Requirements & Opportunities (Dirk Trossen, Huawei) [Slides](Material/IETF120%20side%20meeting%20intro.pptx)
